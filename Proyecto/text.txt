@@ -1,0 +1,184 @@
+========== NAVBAR ==========
+.nav-name
+Home
+About
+Portfolio
+Contact
+
+========== HOME ==========
+.home-tittle
+Soy Julio Viera, estudiante
+
+.home-description
+La verdad no estoy seguro que escribir aqui... No sè ingles.
+
+.button
+More About Me
+
+========== ABOUT ==========
+.section-tittle
+About Me
+
+.info-tittle | .info-description
+Primer Nombre
+Julio
+
+Apellido
+Viera
+
+Edad
+26 años
+
+Nacionalidad
+Venezolano
+
+Freelance
+No creo...
+
+Direcciòn
+Maracaibo
+
+Telefono
+Prefiero no dar eso...
+
+Correo
+Eso ya se lo sabe, creo...
+
+Skype
+Ni sè que es eso
+
+Lenguaje
+Español
+
+.button
+Download Cv
+
+.stats-no | .stats-tittle
+0+
+Años de experiencia
+
+0+
+Proyectos reales terminados
+
+0+
+Clientes Satisfechos
+
+0+
+Premios Ganados
+
+.section-subtittle
+My skills
+
+.skills-tittle
+Creaciòn de Mundo
+Exposiciòn
+
+.skills-name | skills-level
+HTML
+Bajo
+
+CSS
+Bajo
+
+JavaScript
+Bajo
+
+React
+Ni idea
+
+Tailwind
+Ni idea
+
+Figma
+Ni idea
+
+Sketch
+Ni idea
+
+Adobe XD
+Ni idea
+
+Photoshop
+Nulo
+
+InvisionApp
+Ni idea
+
+.section-subtittle
+Experiencia y Educaciòn
+
+No se que decir aqui. Solo copiare el video
+
+.resume-date | .resume-subtittle | .resume-description
+2018 - Present
+Web Developer Envato
+Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit.
+
+2013 - 2018
+UI/UX Designer Themeforest
+Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt.
+
+2005 - 2013
+Consultant Videohive
+Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt.
+
+2015
+Engineering Degree Oxford University
+Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do tempor incididunt ut labore.
+
+2012
+Master Degree KIEV University
+Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt.
+
+2009
+Bachelor Degree Tunis High School
+Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor ut labore.
+
+========== PORTFOLIO ==========
+.section-tittle
+My Portfolio
+
+.portfolio-tittle
+Coffee Website
+Food Product Design
+Restaurant Landing Page
+Barbershop Website
+Construction Landing Page
+
+.portfolio-description
+Short description of the project that was carried out in this portfolio.
+
+.portfolio-link
+Visit Project
+
+========== CONTACT ==========
+.section-tittle
+Contact Me
+
+.contact-tittle | .contact-data
+Address
+North Tower, Toronto, Tunis
+
+Freelance
+Avilable Right Now
+
+Email
+you@email.com
+
+Phone
++00000000000
+
+.contact-form-tag
+Your Full Name *
+Your Email Address
+Your Subject
+Your Message
+
+.button
+Send Message
+
+* EMAIL JS *
+Write all the input fields
+
+Message send ✓
+OOPs! SOMETHIMG WENT WRONG...
